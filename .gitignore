@@ -1,1 +1,3 @@
 *.DS_Store
+v8/darwin/release/libv8_monolith.a
+v8/win32/release/v8_monolith.lib
